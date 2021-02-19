@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+<<<<<<< HEAD
+=======
+    <orderEntry type="library" name="lib1" level="project" />
+    <orderEntry type="library" name="lib1" level="project" />
+    <orderEntry type="library" name="libvrai" level="project" />
+<<<<<<< HEAD
+>>>>>>> 90c6f289c940711cd9b6b8abc79dbc4f78d0fd79
+=======
+>>>>>>> 90c6f289c940711cd9b6b8abc79dbc4f78d0fd79
+    <orderEntry type="library" name="lib" level="project" />
+  </component>
+</module>
